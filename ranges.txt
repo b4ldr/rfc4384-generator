@@ -1,0 +1,7 @@
+africa:2060 - 2942
+oceania:4112 - 4978
+asia:6148 - 7031
+antarctica:8202 - 8452
+europe:10248 - 11073
+s_america:12320 - 13150
+n_america:14364 - 15186
